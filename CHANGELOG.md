@@ -7,5 +7,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ## [1.0.0] — Initial Kimi Code release
 
 ### Added
-- `.kimi.plugin.json` manifest with plugin metadata.
+- `kimi.plugin.json` manifest with plugin metadata.
 - Apache-2.0 license.
