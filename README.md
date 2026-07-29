@@ -161,7 +161,7 @@ Avoid a blanket `mcp__apify__*` allow — `run-actor` consumes platform credits.
 
 ### Bundled scripts
 
-This plugin export does **not** include standalone helper scripts. Instead, the bundled skills ship with markdown references that the agent uses while working:
+This plugin does **not** include standalone helper scripts. Instead, the bundled skills ship with markdown references that the agent uses while working:
 
 - `skills/apify-actor-development/references/` — Actor config, schemas, logging, standby mode, and README guidance
 - `skills/apify-actorization/references/` — JS/TS, Python, and CLI actorization guides plus schema/output notes
