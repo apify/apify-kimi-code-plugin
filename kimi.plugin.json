@@ -1,0 +1,36 @@
+{
+  "name": "apify",
+  "version": "1.0.0",
+  "description": "Extract data from any website with thousands of trusted scrapers, crawlers, and automations from Apify Store. Integrate ready-made Actors to access all popular social media, video, e-commerce, search engines, maps, and travel sites. Build, debug, publish, and monetize new Actors on Apify.",
+  "author": {
+    "name": "Apify",
+    "url": "https://apify.com"
+  },
+  "homepage": "https://apify.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "apify",
+    "web-scraping",
+    "actors",
+    "mcp",
+    "automation"
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "sessionStart": {
+    "skill": "using-apify"
+
+  },
+  "mcpServers": {
+    "apify": {
+      "url": "https://mcp.apify.com/"
+    }
+  },
+  "interface": {
+    "displayName": "Apify",
+    "shortDescription": "Web scraping and data extraction with Apify Actors",
+    "longDescription": "Extract data from any website with thousands of trusted scrapers, crawlers, and automations from Apify Store. Integrate ready-made Actors to access all popular social media, video, e-commerce, search engines, maps, and travel sites. Build, debug, publish, and monetize new Actors on Apify.",
+    "developerName": "Apify",
+    "websiteURL": "https://apify.com"
+  }
+}
