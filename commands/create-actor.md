@@ -47,7 +47,7 @@ Initial request: $ARGUMENTS
 4. If not logged in:
    - Authenticate using OAuth (opens browser): `apify login`
    - If browser isn't available, ensure `APIFY_TOKEN` env var is exported (the CLI reads it automatically)
-   - If user doesn't have a token, generate one at https://console.apify.com/settings/integrations
+   - If user doesn't have a token, generate one at https://console.apify.com/settings/integrations?utm_source=apify-kimi-code-plugin&utm_medium=integrations
 
 ---
 
